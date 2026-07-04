@@ -1,4 +1,5 @@
-MACHINE-LEARNING-LAB--1
+# MACHINE-LEARNING-LAB--1
+
 ml lab exercise for 4 scenarios SCENARIO_1_E_commerce_Sales_Data E‑commerce sales data exploration and top-product analysis. Loaded the "ecommerce-data" CSV, inspects structure and missing values, computes summary statistics and per-product sales, and visualizes the top products (bar and line plots). Intended to demonstrate basic data cleaning, grouping/aggregation, and plotting for retail transaction data. The notebook uses pandas/numpy/matplotlib and contains code to download the dataset with kagglehub.
 
 SCENARIO_2_Hospital_Patient_Records Patient records Pima Indians diabetes exploratory analysis. Used the Pima Indians Diabetes dataset to perform EDA: prints head,info,describe, inspects distributions and spread histogram of Glucose, boxplot of Age, etc.. Useful for demonstrating clinical dataset inspection and basic single-variable visualizations. Dependencies pandas, numpy, matplotlib. Dataset in the notebook.
